@@ -12,6 +12,7 @@
 This is an empty framework, to be used to create SMART Implementation Guides.
 
 CI Build: 
+http://build.fhir.org/ig/seblewongelm/ETHBase
 * http://build.fhir.org/ig/{owner}/{repo}
 * http://{owner}.github.io/{repo}
 
