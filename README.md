@@ -12,8 +12,8 @@
 This is an empty framework, to be used to create SMART Implementation Guides.
 
 CI Build: 
-* http://build.fhir.org/ig/seblewongelm/ETHBase
-* http://seblewongelm.github.io/ETHBase
+* http://build.fhir.org/ig/seblewongelm/ETBase
+* http://seblewongelm.github.io/ETBase
 
 
 Please see these [instructions](https://smart.who.int/ig-starter-kit/ig_setup.html#github-setup)
